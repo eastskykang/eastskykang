@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am a doctoral student at ETH Zurich and research assistant at Computational Robotics Lab under the supervision of Prof. Stelian Coros. I am currently doing my research on the legged robots locomotion and design optimization. 
+Hi, I am a doctoral student at ETH Zurich and research assistant at [Computational Robotics Lab](http://crl.ethz.ch/) under the supervision of Prof. Stelian Coros. I am currently doing my research on the legged robots locomotion and design optimization. 
 
 My research interests are threefolds
 1. optimization- or machine-learning-based control of robot locomotion 
@@ -24,4 +24,4 @@ My research interests are threefolds
 
 Please visit my website for my more detailed CV: [donghok.me](www.donghok.me)
 
-Other than my professional bio, I am an open source enthusiast, an indie game lover and a coffee lover (especially coffee with citrus flavours!). I love listening classical music, hiking beautiful mountains in Switzerland, and watching Ghibli anime movies :D
+Other than my professional bio, I am an open source enthusiast, an indie game lover and a coffee lover (especially coffee with citrus flavours!). I love listening to classical music (Specifically I listen to Mahler, Bruckner, Brahms and Beethoven), Radiohead, Sigur Ros, hiking beautiful mountains in Switzerland, and watching lovely Ghibli and Disney animations :D
