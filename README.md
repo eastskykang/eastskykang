@@ -24,4 +24,6 @@ My research interests are threefolds
 
 Please visit my website for my more detailed CV: [donghok.me](www.donghok.me)
 
-Other than my professional bio, I am an open source enthusiast, an indie game lover and a coffee lover (especially coffee with citrus flavours!). I love listening to classical music (Specifically I listen to Mahler, Bruckner, Brahms and Beethoven), Radiohead, Sigur Ros, hiking beautiful mountains in Switzerland, and watching lovely Ghibli and Disney animations :D
+Other than my professional bio, I am from Seoul, South Korea :kr: and now live in Zurich, Switzerland 🇨🇭. I have a special sense of bonding for these two countries.
+
+As I describe myself, I am an open source enthusiast, an indie game lover, a fan of the bands Radiohead, Sigur Ros and a caffeine addcited (especially I love coffee with citrus flavours!). In my free time, I listen to classical music (specifically Mahler, Bruckner, Brahms and Beethoven), hike beautiful mountains in Switzerland, and watch lovely Ghibli and Disney animations. :D
