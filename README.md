@@ -22,7 +22,7 @@ My research interests are threefolds
 2. simulation methods for robotics application
 3. design optimization of legged robot for graceful motion  
 
-Please visit my website for my more detailed CV: [donghok.me](www.donghok.me)
+Please visit my website for my more detailed CV: [donghok.me](http://www.donghok.me/)
 
 Other than my professional bio, I am from Seoul, South Korea :kr: and now live in Zurich, Switzerland :switzerland:. I have a special sense of bonding for these two countries.
 
