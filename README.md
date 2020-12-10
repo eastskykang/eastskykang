@@ -20,7 +20,7 @@ Hi, I am a doctoral student at ETH Zurich and a research assistant at [Computati
 My research interests are threefolds
 1. optimization- or machine-learning-based control of robot locomotion 
 2. simulation methods for robotics applications
-3. design optimization of legged robot for graceful motion  
+3. design optimization of robotic systems for agile and natural motion  
 
 Please visit my website for my more detailed CV: [donghok.me](http://www.donghok.me/)
 
