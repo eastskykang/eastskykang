@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am a doctoral student at ETH Zurich and a research assistant at [Computational Robotics Lab](http://crl.ethz.ch/). I am currently doing my research on the legged robots locomotion and design optimization. 
+Hi, I am a doctoral student at ETH Zurich and a research assistant at [Computational Robotics Lab](http://crl.ethz.ch/). My research aims to generate more animal-like motion of legged robots. 
 
-My research interests are threefolds
-1. optimization- or machine-learning-based control of robot locomotion 
-2. simulation methods for robotics applications
-3. design optimization of robotic systems for agile and natural motion  
+My research interests are broad ranging to
+1. optimization- or machine-learning-based control strategy for legged robot locomotion 
+2. omputational model of character animation
+3. design optimization for robotics applications
 
 Please visit my website for my more detailed CV: [donghok.me](http://www.donghok.me/)
 
