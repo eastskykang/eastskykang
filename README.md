@@ -19,7 +19,7 @@ Hi, I am a doctoral student at ETH Zurich and a research assistant at [Computati
 
 My research interests are broad ranging to
 1. optimization- or machine-learning-based control strategy for legged robot locomotion 
-2. omputational model of character animation
+2. computational model of character animation
 3. design optimization for robotics applications
 
 Please visit my website for my more detailed CV: [donghok.me](http://www.donghok.me/)
