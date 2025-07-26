@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am a doctoral student at ETH Zurich and a research assistant at [Computational Robotics Lab](http://crl.ethz.ch/). My research aims to generate more animal-like motion of legged robots. 
+Hi, I am a doctoral student in computer science at ETH Zurich and a research assistant at the [Computational Robotics Lab](http://crl.ethz.ch/). 
+The main goal of my research is to develop legged robots that move like real animals, by combining principles from optimal control, reinforcement learning, and data-driven character animation techniques.
 
-My research interests are broad ranging to
-1. optimization- or machine-learning-based control strategy for legged robot locomotion 
-2. computational model of character animation
-3. design optimization for robotics applications
-
-Please visit my website for my more detailed CV: [donghok.me](http://www.donghok.me/)
+Visit my website for my more detailed CV: [donghokang.net](http://www.donghokang.net/)
 
 Other than my professional bio, I am from Seoul, South Korea :kr: and now live in Zurich, Switzerland :switzerland:. 
 
