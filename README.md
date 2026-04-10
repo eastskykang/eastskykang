@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am a doctoral student in computer science at ETH Zurich and a research assistant at the [Computational Robotics Lab](http://crl.ethz.ch/). 
-The main goal of my research is to develop legged robots that move like real animals, by combining principles from optimal control, reinforcement learning, and data-driven character animation techniques.
+I am a research scientist at the Robotics and AI Institute (RAI institute) based in Zurich, Switzerland 🇨🇭. I completed my doctorate in computer science in 2025 at the Computational Robotics Lab, ETH Zurich, under the supervision of Prof. Stelian Coros. My doctoral research focused on developing control algorithms that enable legged robots to move like real animals. The main goal of my research is to create robots that exhibit lifelike, natural, and adaptive motor skills. To achieve this, my research lies at the intersection of optimal control, reinforcement learning, and data-driven character animation.
 
 Visit my website for my more detailed CV: [donghokang.net](http://www.donghokang.net/)
 
